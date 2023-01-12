@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DmitriyK2512.github.io/https://github.com/DmitriyK2512/teams-project.git",
+  "homepage": "https://DmitriyK2512.github.io/teams-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /https://github.com/DmitriyK2512/teams-project.git/"
+    "build": "parcel build src/*.html --public-url /teams-project/"
   },
   "repository": {
     "type": "git",
